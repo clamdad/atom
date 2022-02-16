@@ -21,6 +21,8 @@ API Examples
 .. toctree::
     :maxdepth: 1
 
+    ex_observe_hints
+    ex_static_type_checking
     ex_coersion
     ex_composition
     ex_containers
@@ -28,6 +30,5 @@ API Examples
     ex_metadata
     ex_numeric
     ex_observe
-    ex_observe_hints
     ex_property
     ex_range
